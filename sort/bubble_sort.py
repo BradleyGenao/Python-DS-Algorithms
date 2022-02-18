@@ -19,6 +19,6 @@ class BubbleSort:
 test = BubbleSort([4,3,1,2])
 sorted_array = BubbleSort(test.arr)
 test.print_array()
-print("***********Sorted****************")
+print("***********Bubble Sort****************")
 sorted_array.sort()
 sorted_array.print_array()
